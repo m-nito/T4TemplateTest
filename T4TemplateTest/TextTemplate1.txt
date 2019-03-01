@@ -1,6 +1,7 @@
-﻿
+﻿You can create TextTemplate(.tt) by selecting Project -> Add -> General -> TextTemplate in your VS.
 
-In TextTemplate(.tt) file, you may call DECLEARED VALUE.
+
+In .tt file, you may call DECLEARED VALUE.
 
 Also you may write C# code.
 

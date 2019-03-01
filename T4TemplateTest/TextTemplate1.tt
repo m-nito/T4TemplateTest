@@ -4,12 +4,13 @@
 <#@ import namespace="System.Text" #>
 <#@ import namespace="System.Collections.Generic" #>
 <#@ output extension=".txt" #>
+You can create TextTemplate(.tt) by selecting Project -> Add -> General -> TextTemplate in your VS.
 
 <#
 	string name = "DECLEARED VALUE";
 #>
 
-In TextTemplate(.tt) file, you may call <#= name #>.
+In .tt file, you may call <#= name #>.
 
 Also you may write C# code.
 
