@@ -1,0 +1,27 @@
+﻿
+
+In TextTemplate(.tt) file, you may call decleared value.
+
+Also you may write C# code.
+
+For-loop: 0.
+Also you may call method within your script. (said 0 times)
+For-loop: 1.
+Also you may call method within your script. (said 1 times)
+For-loop: 2.
+Also you may call method within your script. (said 2 times)
+For-loop: 3.
+Also you may call method within your script. (said 3 times)
+For-loop: 4.
+Also you may call method within your script. (said 4 times)
+For-loop: 5.
+Also you may call method within your script. (said 5 times)
+For-loop: 6.
+Also you may call method within your script. (said 6 times)
+For-loop: 7.
+Also you may call method within your script. (said 7 times)
+For-loop: 8.
+Also you may call method within your script. (said 8 times)
+For-loop: 9.
+Also you may call method within your script. (said 9 times)
+
