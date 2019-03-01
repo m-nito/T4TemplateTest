@@ -1,6 +1,6 @@
 ﻿
 
-In TextTemplate(.tt) file, you may call decleared value.
+In TextTemplate(.tt) file, you may call DECLEARED VALUE.
 
 Also you may write C# code.
 

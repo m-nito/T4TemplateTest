@@ -6,7 +6,7 @@
 <#@ output extension=".txt" #>
 
 <#
-	string name = "decleared value";
+	string name = "DECLEARED VALUE";
 #>
 
 In TextTemplate(.tt) file, you may call <#= name #>.
